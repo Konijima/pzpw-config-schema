@@ -1,11 +1,11 @@
 {
   "name": "pzpw-config-schema",
   "version": "1.0.0",
-  "description": "",
+  "description": "pzpw-config schema & typing",
   "main": "",
   "types": "pzpw-config.d.ts",
   "author": "Konijima",
-  "license": "ISC",
+  "license": "Apache License Version 2.0",
   "homepage": "https://github.com/Konijima/pzpw-config-schema#readme",
   "repository": {
     "type": "git",
