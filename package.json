@@ -1,0 +1,20 @@
+{
+  "name": "pzpw-config-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "types": "pzpw-config.d.ts",
+  "author": "Konijima",
+  "license": "ISC",
+  "homepage": "https://github.com/Konijima/pzpw-config-schema#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konijima/pzpw-config-schema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Konijima/pzpw-config-schema/issues"
+  },
+  "dev-dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
