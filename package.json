@@ -1,6 +1,6 @@
 {
   "name": "pzpw-config-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pzpw-config schema & typing",
   "main": "",
   "types": "pzpw-config.d.ts",
@@ -16,5 +16,13 @@
   },
   "dev-dependencies": {
     "typescript": "^4.7.4"
-  }
+  },
+  "keywords": [
+    "pzpw",
+    "schema",
+    "typing",
+    "pipewrench",
+    "typescript",
+    "project-zomboid"
+  ]
 }
