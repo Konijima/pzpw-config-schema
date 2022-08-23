@@ -58,10 +58,6 @@
                 "tags",
                 "mods"
             ]
-        },
-        "typings": {
-            "description": "Typing to includes.",
-            "type": "object"
         }
     },
     "$defs": {
