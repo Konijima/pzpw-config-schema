@@ -1,6 +1,6 @@
 {
   "name": "pzpw-config-schema",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pzpw-config schema & typing",
   "main": "",
   "types": "pzpw-config.d.ts",
